@@ -1,0 +1,14 @@
+# Ignore everything in "event-stream"
+*
+
+# Include everything in "event-stream"
+!*
+
+# Exclude specific files or folders
+/node_modules/
+/dist/
+*.log
+
+.vscode
+public
+
