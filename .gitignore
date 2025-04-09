@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# Except the "event-stream" folder
+!/event-stream/
+
+
+
